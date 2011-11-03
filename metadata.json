@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "postfix": ">= 0.8.2"
+  },
+  "name": "amazon_ses",
+  "maintainer_email": "dalekurt.murray@gmail.com",
+  "attributes": {
+  },
+  "license": "Apache 2.0",
+  "suggestions": {
+  },
+  "platforms": {
+    "debian": ">= 0.0.0",
+    "ubuntu": ">= 0.0.0"
+  },
+  "maintainer": "Dale-Kurt Murray",
+  "long_description": "= DESCRIPTION:\n\n= REQUIREMENTS:\n\n= ATTRIBUTES: \n\n= USAGE:\n\n",
+  "version": "0.1.5",
+  "recommendations": {
+  },
+  "recipes": {
+    "amazon_ses": "Configures Postfix to relay mail to Amazon Simple Email Service"
+  },
+  "groupings": {
+  },
+  "conflicting": {
+  },
+  "replacing": {
+  },
+  "description": "Installs/Configures Amazon SES for Postfix.",
+  "providing": {
+  }
+}
